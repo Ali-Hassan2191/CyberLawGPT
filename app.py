@@ -16,7 +16,7 @@ from groq import Groq
 
 APP_NAME = "CyberLawGPT"
 MODEL_NAME = "openai/gpt-oss-120b"
-DEFAULT_DRIVE_FILE_ID = "1HLE_EnH9rjxhqBUSIMUGj7gSTJTI8NI-"
+DEFAULT_DRIVE_FILE_ID = "1Alve7SH7pEtCyK3o-9B_uem7ATGQ8Dda"
 CACHE_DIR = Path(".cyberlaw_cache")
 CACHE_DIR.mkdir(exist_ok=True)
 
